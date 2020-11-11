@@ -1,0 +1,17 @@
+cred-source:
+  id: ""
+  pass: ""
+source:
+  region: "us-east-2"
+destination-same-acc:
+  region:
+    - ap-south-1
+    - eu-west-1
+    - us-east-1
+    - us-west-2
+cred-destination:
+  id: ""
+  pass: ""
+destination-across-acc:
+  region:
+    - ap-south-1
